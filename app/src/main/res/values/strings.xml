@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppSpiner</string>
+    <string name="txt_PrimerValor">Ingrese el primer valor</string>
+    <string name="txt_SegundoValor">Ingrese el Segundo valor</string>
+    <string name="button_Operacion">Calcular</string>
+    <string name="textView_Resutado">Resultado</string>
+</resources>
